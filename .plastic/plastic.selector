@@ -1,4 +1,0 @@
-repository "Wikitude3@TEC_AR_PROYECT@cloud"
-  path "/"
-    br "/main"
-    co "/main"
